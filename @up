@@ -1,0 +1,4 @@
+pkg upgrade && pkg update 
+
+
+

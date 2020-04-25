@@ -1,0 +1,3 @@
+cd
+./ngrok http 8080
+

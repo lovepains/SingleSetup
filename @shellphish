@@ -1,0 +1,4 @@
+cd $HOME
+cd shellphish
+./shellphish.sh
+

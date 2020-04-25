@@ -1,0 +1,4 @@
+cd $HOME
+cd seeker 
+python3 seeker.py -t manual 
+
