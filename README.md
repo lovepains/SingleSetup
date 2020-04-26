@@ -63,6 +63,13 @@ $  @installng
 * Use Option 1 and Istall ngrok in you termux
 ```
 ```
+$  loveme
+```
+```
+* Use command loveme for viewing the basic shortcut handles of Terminal
+```
+```
+
 * Now you can see a new loading screen of termux and Your Termux is protected by a PASSWORD
 *  You can feel real hacking terminal 
 ```
@@ -90,3 +97,4 @@ https://www.noob-hackers.com
 ### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
