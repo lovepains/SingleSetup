@@ -1,0 +1,44 @@
+toilet -f mono12  "LOVE YOU" 
+echo " "USE THE FOLLOWING COMMANADS
+echo " "FOR INSTALLING NGROK : 
+echo " "@installng | lolcat
+echo " "
+echo " "FOR INSTALLING T-LOAD :
+echo " " @tload | lolcat
+echo " "
+echo " "FOR PASSWORD SETUP 
+echo " "@pswd | lolcat
+echo " " 
+echo " "SHORTCUTS FOR RUNNING PACKAGES
+echo " "For Infect 
+echo " "@infect | lolcat 
+echo " " 
+echo " "For grabcam 
+echo " "@grabcam
+echo " " 
+echo " "For Seeker
+echo " "@seeker | lolcat
+echo " " 
+echo " "For Tunnel 
+echo " "@tunnel | lolcat 
+echo " " 
+echo " "For Starting a ngrok tunnel at 8080 port
+echo " "@ngrok | lolcat 
+echo " " 
+echo " "For Shellphish
+echo " "@shellphish |lolcat
+echo " " 
+echo " "For Apt update && Apt upgrade 
+echo " "@up | lolcat
+echo " "
+echo " "FOR GIVING PERMISSIONS TO ALL FILES IN A DIRECTORY
+echo " "@gp | lolcat
+echo " " 
+echo " "CREATE YOUR CUSTOMIZED SHORTCUT THROUGH Shortit | lolcat
+echo " "USE @shrt COMMAND FOR CRATING SHORTCUT HANDLES
+echo " "
+echo " "NOW ROCK | lolcat 
+echo " " 
+echo " "
+echo " "INSTALL T-LOAD , NGROK AND SET PASSWORD | lolcat
+echo " "UNSING THE ABOVE COMMANDS | lolcat 
