@@ -2,6 +2,17 @@
 
 SingleSetup is a bash based script which loads many necessary and awesome tools in your new installed termux in just oneclick without any issue and without root.
 This tool works on both rooted Android device and Non-rooted Android device.
+*  This Scipt consist following packages :
+*  T-LOAD
+*  Tunnel
+*  Grabcam
+*  Infect
+*  Termux-login
+*  Shellphish
+*  PhoneInfoga
+*  Seeker
+*  Shortit
+
 
 * Termux
 
