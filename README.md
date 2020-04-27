@@ -17,7 +17,7 @@ This tool works on both rooted Android device and Non-rooted Android device.
 * Termux
 
 ### Installation and usage guide
-```
+
 ```
 $ apt-get update -y
 ```
