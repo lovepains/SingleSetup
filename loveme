@@ -33,8 +33,9 @@ echo " "@up | lolcat
 echo " "
 echo " "FOR GIVING PERMISSIONS TO ALL FILES IN A DIRECTORY
 echo " "@gp | lolcat
+echo " " 
 echo " "FOR USING CLEAR COMMANND JUST USE SMALL C
-echo " "c | lolcat
+echo " "c | lolcatecho
 echo " " 
 echo " "
 echo " "CREATE YOUR CUSTOMIZED SHORTCUT THROUGH Shortit | lolcat
