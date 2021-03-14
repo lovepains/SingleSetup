@@ -1,6 +1,0 @@
-cd $HOME
-cd tunnel
-bash tunnel.sh
-
-
-
