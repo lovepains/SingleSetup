@@ -116,10 +116,6 @@ git clone https://github.com/lovepains/Shortit
 
 clear
 
-cd SingleSetup
-
-cp -r ngrok $HOME/SingleSetup $
-
 pkg update && pkg upgrade
 
 clear
@@ -187,7 +183,8 @@ $HOME/.termux/colors.sh
 echo "Choose your font now~"
 
 $HOME/.termux/fonts.sh
-
+rm -rf termux-ohmyzsh
+rm -rf SingleSetup
 echo "Please restart Termux app..."
 
 exit
