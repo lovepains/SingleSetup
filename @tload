@@ -1,5 +1,0 @@
-cd $HOME
-cd T-LOAD
-rm -rf scifi.mp3
-bash t-load.sh
-
