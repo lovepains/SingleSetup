@@ -1,5 +1,0 @@
-cd $HOME
-cd grabcam 
-./grabcam.sh
-
-
