@@ -118,7 +118,7 @@ clear
 
 cd SingleSetup
 
-cp -r ngrok $HOME/SingleSetup $Home
+cp -r ngrok $HOME/SingleSetup $
 
 pkg update && pkg upgrade
 
