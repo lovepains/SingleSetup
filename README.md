@@ -1,5 +1,5 @@
 ### About SingleSetup :
-<p align="center"><img src="https://unsplash.com/photos/4hbJ-eymZ1o" alt="Oh My Zsh"></p>
+<p align="center"><img src="https://www.view-page-source.com/i/code.webp" alt="Oh My Zsh"></p>
 
 SingleSetup is a bash based script which loads many necessary and awesome tools in your new installed termux in just oneclick without any issue and without root.
 This tool works on both rooted Android device and Non-rooted Android device.
