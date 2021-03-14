@@ -108,6 +108,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$HOME/.zsh-s
 
 git clone https://github.com/noob-hackers/grabcam
 
+git clone https://github.com/noob-hackers/tunnel
 git clone https://github.com/noob-hackers/Infect
 
 git clone https://github.com/thewhiteh4t/seeker
