@@ -180,7 +180,7 @@ chsh -s zsh
 
 cd $Home
 
-cp -r colors.sh $HOME/SingleSetup $Home/.termux
+cp -r colors.sh $HOME/SingleSetup $HOME/.termux
 
 $HOME/.termux/colors.sh
 
